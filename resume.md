@@ -92,7 +92,7 @@
 ---
 
 # Image
-![UW Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/University_of_Washington_seal.svg/512px-University_of_Washington_seal.svg.png)
+![UW Logo]([https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/University_of_Washington_seal.svg/512px-University_of_Washington_seal.svg.png](https://depts.washington.edu/compfin/cropped-uw-logo-512-png/))
 
 
 ---
