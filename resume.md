@@ -92,7 +92,7 @@
 ---
 
 # Image
+![UW Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/University_of_Washington_seal.svg/512px-University_of_Washington_seal.svg.png)
 
-![UW Library](https://upload.wikimedia.org/wikipedia/commons/2/21/UW_Washington_Library.jpg)
 
 ---
