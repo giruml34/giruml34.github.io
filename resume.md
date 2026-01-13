@@ -101,6 +101,6 @@ I am a Geography (GIS) and Data Science student at the University of Washington 
 
 # Image
 
-![University of Washington Campus](https://github.com/user-attachments/assets/22aff454-f30c-4db1-85b9-74395f1bc9c6)
+![University of Washington](https://upload.wikimedia.org/wikipedia/commons/0/08/University_of_Washington_campus_in_autumn.jpg)
 
 ---
