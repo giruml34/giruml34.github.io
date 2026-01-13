@@ -93,6 +93,6 @@
 
 # Image
 
-![University of Washington Campus](https://github.com/user-attachments/assets/22aff454-f30c-4db1-85b9-74395f1bc9c6)
+![UW Cherry Blossoms](https://upload.wikimedia.org/wikipedia/commons/3/38/UW_Cherry_Blossoms_2019.png)
 
 ---
