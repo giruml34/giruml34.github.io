@@ -6,14 +6,6 @@
 
 ---
 
-# Summary
-
-I am a Geography (GIS) and Data Science student at the University of Washington with experience in security, public health project review, youth mentorship, and community leadership. I enjoy working with people, solving problems, and learning new tools.
-
-> “Always learning, always improving.”
-
----
-
 # Education
 
 ## University of Washington – Seattle, WA
