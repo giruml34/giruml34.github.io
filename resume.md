@@ -93,6 +93,6 @@
 
 # Image
 
-![UW Cherry Blossoms](https://upload.wikimedia.org/wikipedia/commons/3/38/UW_Cherry_Blossoms_2019.png)
+![UW Library](https://upload.wikimedia.org/wikipedia/commons/2/21/UW_Washington_Library.jpg)
 
 ---
