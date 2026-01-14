@@ -9,8 +9,6 @@
 
 I am a Geography (GIS) and Data Science student at the University of Washington. I enjoy learning new technology tools, solving problems, and working with diverse communities.
 
-> “Learning is a process, not a finish line.”
-
 ---
 
 # Education
