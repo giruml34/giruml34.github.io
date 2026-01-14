@@ -90,7 +90,7 @@ I am a Geography (GIS) and Data Science student at the University of Washington.
 
 # Image
 
-![UW Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/University_of_Washington_W-Logo_RGB.png/640px-University_of_Washington_W-Logo_RGB.png)
+![UW Logo](https://upload.wikimedia.org/wikipedia/commons/b/bf/University_of_Washington_wordmark.svg)
 
 ---
 
